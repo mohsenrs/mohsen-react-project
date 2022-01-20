@@ -6,19 +6,19 @@ import './navabr.css'
 const Menu = (
   <>
     <p>
-      <a href='#home'></a>Home
+      <a href='#home'>Home</a>
     </p>
     <p>
-      <a href='#wgpt3'></a>What Is GPT?
+      <a href='#wgpt3'>What Is GPT?</a>
     </p>
     <p>
-      <a href='#possibility'></a>Open Ai
+      <a href='#possibility'>Open Ai</a>
     </p>
     <p>
-      <a href='#features'></a>Case Studies
+      <a href='#features'>Case Studies</a>
     </p>
     <p>
-      <a href='#blog'></a>Library
+      <a href='#blog'>Library</a>
     </p>
   </>
 )
