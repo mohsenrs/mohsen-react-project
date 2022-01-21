@@ -5,7 +5,7 @@ import './blog.css'
 
 function Blog() {
   return (
-    <div className='gpt3__blog section__padding'>
+    <div className='gpt3__blog section__padding' id='blog'>
       <div className='gpt3__blog-heading gradient__text'>
         <h1>Lorem ipsum dolor sit.</h1>
       </div>
