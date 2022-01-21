@@ -16,24 +16,24 @@ function Footer() {
       </div>
 
       <div className='gpt3__footer-links'>
-        <div className='gpt3__footer-links_image'>
+        <div className='gpt3__footer-links_logo'>
           <img src={gpt3Logo} alt='gpt3 logo' />
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div className='gpt3__footer-links_div'>
-          <p>lorem ipsum</p>
-          <p>lorem ipsum</p>
-          <p>lorem ipsum</p>
-          <p>lorem ipsum</p>
-        </div>
-        <div className='gpt3__footer-links_div'>
-          <p>lorem ipsum</p>
+          <h4>Links</h4>
           <p>lorem ipsum</p>
           <p>lorem ipsum</p>
           <p>lorem ipsum</p>
         </div>
         <div className='gpt3__footer-links_div'>
+          <h4>Company</h4>
           <p>lorem ipsum</p>
+          <p>lorem ipsum</p>
+          <p>lorem ipsum</p>
+        </div>
+        <div className='gpt3__footer-links_div'>
+          <h4>Get In Touch</h4>
           <p>lorem ipsum</p>
           <p>lorem ipsum</p>
           <p>lorem ipsum</p>
